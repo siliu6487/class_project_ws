@@ -2,5 +2,13 @@ build/
 install/
 log/
 
+ml_env/
+demo/
+image/
+data/
+
+task_planner/
+
+
 *.pyc
 __pycache__/**/ml_env/
